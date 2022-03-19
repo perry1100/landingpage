@@ -1,0 +1,111 @@
+.number-1{
+    text-decoration: none;
+    position: relative;
+    margin-top: 130px;
+    width: 90%;
+    text-align: left;
+    display: flex;
+    list-style: none;
+    left: 140px;
+}
+.aboutfirst {
+    background-color: #F6F3F3;
+    height: 180px;
+    top: 5px;
+    position: relative;
+}
+.nav-link{
+    color: black;
+}
+.nav-link-11{
+    color: black;
+}
+.nav-link-2{
+    color: #F6F3F3;
+}
+.number{
+    position: relative;
+    background-color: #48D1CC;
+    width: 1519px;
+    height: 150px;
+    margin-top: -148px;
+}
+.nav-item-1{
+    text-decoration: none;
+    position: relative;
+    margin-top: 10px;
+    width: 1519px;
+    margin-left: 20px;
+    list-style: none;
+}
+.nav-item:hover{
+    text-decoration: none;
+}
+svg{
+    position: relative;
+    margin-top: 40px;
+    margin-left: -5px;
+}
+.aboutme{
+    width: 50%;
+    text-align: left;
+    left: 759px;
+    position: relative;
+    top: 135px;
+}
+.chuki{
+    position: relative;
+    margin-top: 60px;
+    left: 295px;
+}
+.aboutimg{
+    position: relative;
+    width: 50%;
+    margin-top: -309px;
+}
+.content-3, .content-4, .content-5{
+    height: 0px;
+    margin-top: -40px;
+}
+.list-content {
+    position: relative;
+    top: -115px;
+    margin-left: 920px;
+    list-style: none;
+}
+.list-content-2 {
+    position: relative;
+    top: -75px;
+    margin-left: 1036px;
+    list-style: none;
+}
+.list-content-3 {
+    position: relative;
+    top: -35px;
+    margin-left: 1220px;
+    list-style: none;
+    display: inline-grid;
+}
+.needpj{
+    background-color: #F6F3F3;
+    text-align: center;
+    margin-top: -12px;
+    position: relative;
+}
+.about {
+    background-color: #F6F3F3;
+    height: 180px;
+    top: -18px;
+    position: relative;
+}
+.buttonproject{
+    position: relative;
+    top: -20px;
+}
+.footer {
+    width: 100%;
+    height: 250px;
+    background-color: #15171A;
+    top: 46px;
+    position: relative;
+}

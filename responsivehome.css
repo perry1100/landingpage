@@ -1,0 +1,35 @@
+@media only screen and (min-width:1824px) {
+    .logo {
+        width: 50px;
+    }
+    .nav-item {
+        font-size: 25px;
+        text-decoration: none;
+        position: relative;
+        margin-top: 10px;
+        /* width: 1470px; */
+        margin-left: 65px;
+        list-style: none;
+        left: 565px;
+    }
+    #about-id-1{
+        font-size: 50px;
+    }
+    #about-id-2{
+        font-size: 25px;
+    }
+    .img-thumbnail-1, .img-thumbnail-2, .img-thumbnail-3, .img-thumbnail-4 {
+        padding: 0.25rem;
+        max-width: 469px;
+        height: 360px;
+        background-color: #fff;
+        border-radius: 1.25rem;
+    }
+    .img-thumbnail-5, .img-thumbnail-6, .img-thumbnail-7, .img-thumbnail-8 {
+        padding: 0.25rem;
+        max-width: 469px;
+        height: 360px;
+        background-color: #fff;
+        border-radius: 1.25rem;
+    }
+}

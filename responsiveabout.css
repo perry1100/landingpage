@@ -1,0 +1,64 @@
+@media only screen and (min-width:1824px) {
+    .headerhome {
+        margin-left: 1000px;
+        margin-top: -7px;
+        display: flex;
+        list-style: none;
+        font-size: 25px;
+    }
+    .number {
+        position: relative;
+        background-color: #48D1CC;
+        width: 1920px;
+        height: 150px;
+        margin-top: -148px;
+    }
+    .number-1{
+        font-size: 20px;
+    }
+    .aboutfirst {
+        height: 230px;
+
+    }
+    .aboutme {
+        width: 50%;
+        text-align: left;
+        left: 1008px;
+        position: relative;
+        top: 135px;
+    }
+    .aboutimg {
+        position: relative;
+        width: 55%;
+        margin-top: -468px;
+    }
+    .chuki {
+        position: relative;
+        top: 75px;
+        left: 295px;
+        width: 430px;
+    }
+    #id-about-first{
+        font-size: 50px;
+    }
+    #id-about-first-1{
+        font-size: 25px;
+    }
+    #id-about-1{
+        top: 50px;
+        font-size: 55px;
+    }
+    #id-about-2{
+        top: 65px;
+        font-size: 30px;
+    }
+    .about {
+        height: 235px;
+    }
+    .btn-primary {
+        width: 200px;
+        height: 65px;
+        top: -10px;
+        position: relative;
+    }
+}

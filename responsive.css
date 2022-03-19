@@ -1,0 +1,318 @@
+@media only screen and (min-width:1824px) {
+    .headerhome {
+        width: 100%;
+        margin-left: 700px;
+        margin-top: -7px;
+        display: flex;
+        list-style: none;
+    }
+    .p-5 {
+        width: 1920px;
+        height: 360px;
+        position: relative;
+        margin-top: 50px;
+    }
+    .mb-2 {
+        position: relative;
+        left: -423px;
+        color: black;
+    }
+    .mb-3 {
+        position: relative;
+        right: 300px;
+        color: black;
+    }
+    .mb-4 {
+        position: relative;
+        right: 291px;
+        color: black;
+    }
+    .mb-5 {
+        position: relative;
+        right: 429px;
+        color: black;
+    }
+    .contactus {
+        position: relative;
+        left: -689px;
+    }
+    .about-1 {
+        width: 1920px;
+        position: relative;
+        top: 30px;
+        text-align: center;
+        font-size: 50px;
+    }
+    .about-2 {
+        width: 1920px;
+        color: #A9A9A9;
+        font-size: 25px;
+        text-align: center;
+    }
+    .chuki {
+        width: 385px;
+        height: 120px;
+        position: relative;
+        left: 783px;
+        top: 65px;
+        text-align: center;
+        background-size: auto;
+    }
+	.skill-image {
+        position: relative;
+        margin-top: 65px;
+        left: 949px;
+        z-index: -1;
+        width: 65%;
+    }
+    .skill-1 {
+        position: relative;
+        font-size: 50px;
+        top: -634px;
+        left: 85px;
+    }
+    p {
+        position: relative;
+        top: -616px;
+        left: 85px;
+        line-height: 165px;
+        z-index: -1;
+        font-size: 25px;
+    }
+    .container-2 {
+        position: relative;
+        margin-top: -994px;
+        margin-left: 85px;
+    }
+    .container-3 {
+        position: relative;
+        margin-top: 174px;
+        margin-left: 86px;
+    }
+    .container-4 {
+        position: relative;
+        margin-top: 180px;
+        margin-left: 85px;
+    }
+    .number {
+        position: relative;
+        background-color: #48D1CC;
+        width: 1920px;
+        height: 150px;
+        margin-top: -56px;
+    }
+    .nav-link-2 {
+        font-size: 20px;
+        text-decoration: none;
+        position: relative;
+        color: white;
+        left: 95px;
+    }
+    .image-process{
+        width: 1920px;
+    }
+    .img-thumbnail-1, .img-thumbnail-2, .img-thumbnail-3, .img-thumbnail-4 {
+        padding: 0.25rem;
+        max-width: 467px;
+        height: 354px;
+        background-color: #fff;
+        border-radius: 1.25rem;
+        display: inline;
+    }
+    .image-process-1 {
+        position: relative;
+        height: 53px;
+        left: 22px;
+        width: 231px;
+        background-image: none;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        display: inline;
+    }
+    .image-process-2 {
+        position: relative;
+        left: 18px;
+        width: 200px;
+        background-image: none;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        display: inline;
+    }
+    .img-thumbnail-5, .img-thumbnail-6, .img-thumbnail-7, .img-thumbnail-8 {
+        padding: 0.25rem;
+        max-width: 469px;
+        height: 354px;
+        background-color: #fff;
+        border-radius: 1.25rem;
+    }
+    .loadwork {
+        position: relative;
+        margin-top: -1px;
+        margin-left: 4px;
+        text-align: center;
+        background-color: #E6E6FA;
+        width: 1920px;
+        height: 50px;
+    }
+    .title{
+        width: 1920px;
+    }
+    .workprocess-1 {
+        position: relative;
+        text-align: center;
+        margin-top: 60px;
+        font-size: 50px;
+    }
+    .workprocess-2 {
+        position: relative;
+        margin-top: -35px;
+        font-size: 25px;
+        color: darkgray;
+    }
+    .video-workprocess {
+        position: relative;
+        width: 1634px;
+        height: 712px;
+        margin-top: 65px;
+        margin-left: 150px;
+    }
+    .text-icon {
+        height: 545px;
+        width: 1920px;
+        background-color: #A9A9A9;
+    }
+    .text-icon-1 {
+        height: 545px;
+        position: relative;
+        width: 1920px;
+        background-color: #A9A9A9;
+        margin-top: 55px;
+    }
+    .img-text-1 {
+        position: relative;
+        margin-top: 100px;
+        margin-left: 425px;
+    }
+    .img-text-5 {
+        position: relative;
+        margin-top: -450px;
+        margin-left: 415px;
+    }
+    .titlet {
+        position: relative;
+        top: 44px;
+        left: 290px;
+        margin-left: 90px;
+        color: #2F4F4F;
+    }
+    .title-2 {
+        position: relative;
+        width: 90.5%;
+        top: 44px;
+        left: 267px;
+        margin-left: 103px;
+        color: #2F4F4F;
+    }
+    .title-4 {
+        position: relative;
+        left: 714px;
+        margin-left: -42px;
+        color: #2F4F4F;
+    }
+    .title-6 {
+        position: relative;
+        left: 1133px;
+        margin-left: -29px;
+        color: #2F4F4F;
+    }
+    .title-8 {
+        position: relative;
+        left: 1445px;
+        margin-left: -26px;
+        color: #2F4F4F;
+    }
+    .title-2-1 {
+        position: relative;
+        margin-top: 100px;
+        margin-left: -1590px;
+    }
+    .title-2-3 {
+        position: relative;
+        margin-top: -65px;
+        margin-left: -930px;
+    }
+    .title-2-5 {
+        position: relative;
+        margin-top: -65px;
+        margin-left: -95px;
+    }
+    .title-2-7 {
+    position: relative;
+    margin-top: -65px;
+    margin-left: 540px;
+    }
+    .slide{
+        width: 100%;
+        left: 240px;
+    }
+    .slide-h2 {
+        position: relative;
+        margin-top: -825px;
+        margin-left: 40px;
+    }
+    .image-client {
+        height: 130px;
+        position: relative;
+        width: 1920px;
+        background-color: white;
+        left: 0px;
+        top: 18px;
+    }
+    .img-client-2,.img-client-3,.img-client-4,.img-client-5,.img-client-6{
+        height: 150px;
+        width: 205px;
+    }
+    .contact{
+        width: 1920px;
+        top: 55px;
+        position: relative;
+        text-align: center;
+    }
+    .section-heading{
+        width: 1920px;
+        text-align: center;
+        font-size: 50px;
+    }
+    .section-description {
+        position: relative;
+        /* margin-left: 967px; */
+        margin-top: 50px;
+        /* top: 40px; */
+        left: -77px;
+        /* line-height: 34px; */
+        /* margin-left: 605px; */
+        z-index: -1;
+        font-size: 25px;
+        /* text-align: center; */
+    }
+    #contact-form{
+        position: relative;
+        margin-top: 10px;
+        left: 175px;
+    }
+    .center-on-small-only {
+        top: 30px;
+        position: relative;
+        margin-left: 350px;
+    }
+    .footer {
+        width: 1920px;
+        height: 340px;
+        background-color: #15171A;
+        top: 135px;
+        position: relative;
+    }
+
+}

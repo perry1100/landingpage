@@ -1,0 +1,230 @@
+body
+{
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: initial;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    width: 1489px;
+}
+.headerhome{
+  margin-left: 700px;
+  margin-top: -7px;
+  display: flex;
+  list-style: none;
+}   
+.textheader{
+    text-align: right;
+
+}
+element.style{
+    background-repeat: repeat;
+}
+.logo{
+   position: relative;
+   top: 30px;
+   left: 75px;
+}
+.p-5{
+    width: 1519px;
+    height: 360px;
+    position: relative;
+    margin-top: 50px;
+}
+.mb-2{
+    position: relative;
+    left: -268px;
+    color: black;
+}
+.mb-3, .mb-4, .mb-5{
+    color: #A9A9A9;
+    font-size: 20px;
+}
+.mb-3{
+    position: relative;
+    right: 142px;
+    color: black;
+}
+.mb-4{
+    position: relative;
+    right: 133px;
+    color: black;
+
+}
+.mb-5{
+    position: relative;
+    right: 272px;
+    color: black;
+}
+.contactus{
+    position: relative;
+    left: -530px;
+
+}
+h6{
+    position: relative;
+    top: 45px;
+    text-align: center;
+}
+.about-2{
+    color: #A9A9A9;
+    font-size: 16px;
+}
+h2{
+    position: relative;
+    top: 30px;
+    text-align: center;
+    color: black;
+}
+.chuki{
+    position: relative;
+    left: 670px;
+    top: 65px;
+    text-align: center;
+    background-size: auto;
+}
+/* định dạng chung cho thẻ hiển thị skill */
+.skills {
+    line-height: 5px; 
+    color: white;
+}
+/* định dạng cho từng skill theo số liệu */
+.des {width: 40%; background-color: #2196F3;} 
+.web {width: 20%; background-color: #2196F3;}
+.mkt {width: 30%; background-color: #2196F3;} 
+.skill-1{
+    position: relative;
+    top: -450px;
+    left: 30px;
+}
+.skill-image{
+  position: relative;
+  top: 92px;
+  left: 718px;
+  z-index: -1;
+}
+p{
+    position: relative;
+    top: -465px;
+    left: 30px;
+    line-height: 108px;
+    z-index: -1;
+}
+.container-1{
+    width: 75%;
+    margin-left: 30px;
+    margin-top: -729px;
+    z-index: 1;
+}
+.container-2{
+    position: relative;
+    margin-top: -727px;
+    margin-left: 30px;
+
+}
+.container-3{
+    position: relative;
+    margin-top: 119px;
+    margin-left: 30px;
+
+}
+.container-4{
+    position: relative;
+    margin-top: 128px;
+    margin-left: 30px;
+
+}
+.number-1{
+    text-decoration: none;
+    position: relative;
+    margin-top: 130px;
+    width: 100%;
+    text-align: left;
+    display: flex;
+    list-style: none;
+}
+.nav-link{
+    color: black;
+}
+.nav-link-22{
+    color: black;
+}
+.nav-link-2{
+    text-decoration: none;
+    position: relative;
+    color: white;
+    left: 95px;
+}
+.number{
+    position: relative;
+    background-color: #48D1CC;
+    width: 1519px;
+    height: 150px;
+    margin-top: -56px;
+}
+.nav-item{
+    text-decoration: none;
+    position: relative;
+    margin-top: 10px;
+    width: 1519px;
+    margin-left: 20px;
+    list-style: none;
+}
+.nav-item:hover{
+    text-decoration: none;
+}
+svg{
+    position: relative;
+    margin-top: 40px;
+    margin-left: -5px;
+}
+.image-process-1{
+    position: relative;
+    left: 17px;
+    width: 200px;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: inline;
+
+}
+.image-process-2{
+    position: relative;
+    left: 18px;
+    width: 200px;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: inline;
+}
+.img-thumbnail{
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 11px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 102%;
+    height: 284px;
+}
+.img-thumbnail-1, .img-thumbnail-2,.img-thumbnail-3,.img-thumbnail-4{
+    padding: 0.25rem;
+    max-width: 400px;
+    height: 278px;
+    background-color: #fff;
+    border-radius: 1.25rem;
+}
+.img-thumbnail-5, .img-thumbnail-6, .img-thumbnail-7, .img-thumbnail-8{
+    padding: 0.25rem;
+    max-width: 400px;
+    height: 274px;
+    background-color: #fff;
+    border-radius: 1.25rem;
+}
+.img-thumbnail-5{
+    max-width: 373px;
+    height: 274px;
+}
